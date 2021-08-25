@@ -1,0 +1,10 @@
+C:\Users\e-pal\source\repos\CandyCrush12\CandyCrush12\bin\Debug\CandyCrush12.exe.config
+C:\Users\e-pal\source\repos\CandyCrush12\CandyCrush12\bin\Debug\CandyCrush12.exe
+C:\Users\e-pal\source\repos\CandyCrush12\CandyCrush12\bin\Debug\CandyCrush12.pdb
+C:\Users\e-pal\source\repos\CandyCrush12\CandyCrush12\obj\Debug\CandyCrush12.csprojAssemblyReference.cache
+C:\Users\e-pal\source\repos\CandyCrush12\CandyCrush12\obj\Debug\CandyCrush12.Form1.resources
+C:\Users\e-pal\source\repos\CandyCrush12\CandyCrush12\obj\Debug\CandyCrush12.Properties.Resources.resources
+C:\Users\e-pal\source\repos\CandyCrush12\CandyCrush12\obj\Debug\CandyCrush12.csproj.GenerateResource.cache
+C:\Users\e-pal\source\repos\CandyCrush12\CandyCrush12\obj\Debug\CandyCrush12.csproj.CoreCompileInputs.cache
+C:\Users\e-pal\source\repos\CandyCrush12\CandyCrush12\obj\Debug\CandyCrush12.exe
+C:\Users\e-pal\source\repos\CandyCrush12\CandyCrush12\obj\Debug\CandyCrush12.pdb
